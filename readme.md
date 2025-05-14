@@ -1,5 +1,5 @@
 ## 1. Authentication and User Management
-- User Registration and Login: Allow users to sign up, log in, and manage their profiles.
+- User Registration and Login: Allow users to sign up, log in, and manage their profiles..
 - Social Login: Integrate OAuth for Google, Facebook, Apple, etc.
 - Password Reset: Add a secure password reset flow with email verification.
 User Roles: Create different user roles (admin, regular user, guest) with specific permissions.
